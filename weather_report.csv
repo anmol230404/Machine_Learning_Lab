@@ -1,0 +1,2 @@
+City,Country,Temperature (°C),Feels Like (°C),Humidity (%),Pressure (hPa),Weather,Description,Wind Speed (m/s),Cloudiness (%),Sunrise (IST),Sunset (IST),Fetched At (IST)
+Indore,IN,24.1,24.6,78,1014,Clouds,overcast clouds,0,100,2026-10-20 06:25:02,2026-10-20 17:57:41,2026-10-20 04:13:43
